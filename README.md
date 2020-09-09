@@ -1,4 +1,4 @@
-# Punto de control #6
+# Proyecto - Torres de Hanoi
 
 ## :copyright: Autor
 
