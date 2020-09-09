@@ -6,7 +6,7 @@
 - :boy: **Felipe Lin Zhao**
 - :e-mail: felipelinchiu321@gmail.com
 - :link: [github.com/Perz1vaI](https://github.com/Perz1vaI)
-- :calendar: 2020-08-30 18:00 CST
+- :calendar: 2020-09-09 18:00 CST
 
 ---
 
@@ -16,7 +16,7 @@ Completar la tarea que fui asignado a hacer.
 
 ---
 
-## :black_circle: static_cast_variable.cpp
+## :black_circle: TorresHanoi.cpp
 
 ![](imagenes/Torres_Hanoi.png)
 ![](imagenes/Torres_Hanoi_salida.png)
@@ -26,7 +26,7 @@ Completar la tarea que fui asignado a hacer.
 
 ## :computer: Código
 
-- :blue_book: [Punto de control #6](https://github.com/Perz1vaI/C-_TDH.git)
+- :blue_book: [Proyecto - Torres de Hanoi](https://github.com/Perz1vaI/C-_TDH.git)
 
 ---
 #### Herramientas:
